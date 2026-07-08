@@ -29,6 +29,7 @@ Hello <img src="./assets/wave.gif" width="30px" height="30px"/>, I'm
 🌱 Continuously learning new technologies and best practices to grow as a software engineer.  
 🚀 Always excited to build solutions that deliver real value and great user experiences.  
 
+
 ### 🛠 Tech Stack & Tools
 
 #### 🌐 Frontend
@@ -42,7 +43,6 @@ Hello <img src="./assets/wave.gif" width="30px" height="30px"/>, I'm
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
 
 #### ⚙️ Backend 
 ![SQL%20Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
