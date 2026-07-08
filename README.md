@@ -2,7 +2,7 @@
 Hello <img src="./assets/wave.gif" width="30px" height="30px"/>, I'm
  
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2BBC8A&center=true&vCenter=true&width=650&lines=Doaa+Diaa+El+Din!;Frontend+Developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2BBC8A&center=true&vCenter=true&width=650&lines=Doaa+Diaa+El+Din!;Frontend+web+Developer!" alt="Typing SVG" />
   </div>
   
   <p align="center">
@@ -22,13 +22,13 @@ Hello <img src="./assets/wave.gif" width="30px" height="30px"/>, I'm
 ### 👩‍💻 About Me
 🎓 Fresh graduate from the **Faculty of Computer and Information Sciences**, Ain Shams University.  
 💻 Frontend Developer passionate about building **modern, responsive, and user-friendly web applications**.  
-⚡ Experienced with **Angular, React.js, Next.js, JavaScript, and TypeScript**.  
 🔗 Hands-on experience integrating **REST APIs**, implementing **Technical SEO**, and writing **clean, maintainable code**.  
 🧠 Strong foundation in **Data Structures, Object-Oriented Programming (OOP), and problem-solving**.  
 🤝 Enjoy collaborating in team environments and value effective communication and knowledge sharing.  
 🌱 Continuously learning new technologies and best practices to grow as a software engineer.  
 🚀 Always excited to build solutions that deliver real value and great user experiences.  
 
+<p align="center">• • •</p>
 
 ### 🛠 Tech Stack & Tools
 
