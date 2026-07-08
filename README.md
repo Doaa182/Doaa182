@@ -1,6 +1,6 @@
-## Hi there 👋
-# Hello, I'm Doaa Diaa El Din! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<h1 align="center">Hello, I'm Doaa Diaa El Din! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/></h1>
 
+<h3 align="center">Frontend Developer • Angular • React.js • Next.js</h3>
 
 <!--
 **Doaa182/Doaa182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
