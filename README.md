@@ -1,6 +1,10 @@
-<h1 align="center">Hello, I'm Doaa Diaa El Din! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Doaa Diaa El Din!</h1>
 
-<h3 align="center">Frontend Developer • Angular • React.js • Next.js</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2BBC8A&center=true&vCenter=true&width=350&lines=Frontend+Developer" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Angular • React.js • Next.js</h3>
 
 <!--
 **Doaa182/Doaa182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
