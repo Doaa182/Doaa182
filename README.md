@@ -2,7 +2,7 @@
 Hello <img src="./assets/wave.gif" width="30px" height="30px"/>, I'm
  
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2BBC8A&center=true&vCenter=true&width=650&lines=Doaa+Diaa+El+Din!;Frontend+web+Developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2BBC8A&center=true&vCenter=true&width=650&lines=Doaa+Diaa+El+Din!;Frontend+Web+Developer!" alt="Typing SVG" />
   </div>
   
   <p align="center">
@@ -39,6 +39,7 @@ Hello <img src="./assets/wave.gif" width="30px" height="30px"/>, I'm
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
